@@ -1,0 +1,11 @@
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.csproj.AssemblyReference.cache
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.csproj.SuggestedBindingRedirects.cache
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.Form1.resources
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.Properties.Resources.resources
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.csproj.GenerateResource.cache
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\bin\Debug\CalculateCredit.exe.config
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\bin\Debug\CalculateCredit.exe
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\bin\Debug\CalculateCredit.pdb
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.exe
+C:\Users\offic\source\repos\CalculateCredit\CalculateCredit\obj\Debug\CalculateCredit.pdb
